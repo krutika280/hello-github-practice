@@ -1,2 +1,1 @@
-hello from feature 
-
+Hello from both main and feature-conflict branches!
